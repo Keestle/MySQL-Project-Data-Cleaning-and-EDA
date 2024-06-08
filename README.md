@@ -2,8 +2,11 @@
 Hello and thank you for taking a look at my MySQL projects! 
 
 ## What's included
+### Layoffs CSV file 
+Original excel master file containing data regarding layoffs by global companies from the years 2021 to 2023.
+
 ### Data Cleaning with MySQL - Project 1
-A data set of company layoffs by global companies from the years 2021 to 2023 has been provided, project is to clean the data using MySQL to:
+A data set of company layoffs by global companies from the years 2021 to 2023 has been provided, project objective is to clean the data using MySQL to:
 1. Remove any Duplicates
 
 2. Standardise the Data (Removing any spelling mistakes etc.)
